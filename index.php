@@ -1,4 +1,4 @@
 <?php
 	include_once("irctc_home.html");
-	include_once("irctc_newmodule.html");
+	include_path("irctc_newmodule.html");
 	?>
